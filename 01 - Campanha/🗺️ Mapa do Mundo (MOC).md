@@ -49,8 +49,10 @@ Painel central do vault. Comece por aqui. Esta é uma nota **MOC** (Map of Conte
 
 ## 🗺️ Locais
 - **Rota:** [[Pallet Town]] → [[Rota 1]] → [[Viridian City]] → [[Floresta de Viridian]] → [[Pewter City]] → [[Monte Lua]] → [[Cerulean City]]
+- **Cidades futuras:** [[Vermilion City]] · [[Lavender Town]] · [[Celadon City]] · [[Fuchsia City]] · [[Saffron City]]
 - **Ginásios/museus:** [[Museu de Viridian]] · [[Museu de Pewter]]
 - **Instalações da CNE:** [[VIRIDIAN-01]] · [[Setor Florestal de Viridian - Posto 3]]
+- **Mistérios antigos:** [[Túnel Espiritual]]
 
 ## 🎒 Itens e artefatos
 - [[Coroa de Ônix]] · [[Fósseis de Kanto]] · [[Gaiola CNE-01]] · [[Apito Policial (Aiden)]] · [[Caderno de Campo de Cynthia]] · [[Pokébola e Carta do Pai (Kanye)]] · [[Pokédex]]
@@ -59,6 +61,7 @@ Painel central do vault. Comece por aqui. Esta é uma nota **MOC** (Map of Conte
 - **Viridian:** [[O Pidgey que Não Podia Ser Curado]] · [[O Caso do Oficial Desaparecido]] · [[O Fragmento do Museu]] · [[A Voz Que Foi Cortada]]
 - **Arco Pewter–Cerulean:** [[A Coleira da Floresta]] · [[O Segundo Fragmento]] · [[A Escavação Sob a Lua]] · [[O Recado na Música]]
 - **Longo prazo:** [[A Dúvida de Sete]]
+- **Quests da mesa (suas ideias, integradas):** [[Não Ultrapasse (Viridian)]] · [[Um Ato Heroico (Viridian)]] · [[O Homem do Raio Verde (Vermilion)]] · [[A Estatueta do Gengar (Lavender)]] · [[A Perda do Tempo (Celadon)]] 🔑 · [[O Labirinto de Celebi (Fuchsia)]] 🔑 · [[Controle Absoluto (Saffron)]] 🔑👑
 
 ## 📖 Contos, lendas e falas (para ler e narrar)
 - ⭐ [[Conto - A Última Ronda]] — a história-semente para ler e desenvolver
