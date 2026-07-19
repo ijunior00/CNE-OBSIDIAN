@@ -25,5 +25,19 @@ status: desaparecido
 ## Dilema para [[Kanye]]
 "Não me procure" vs. "Vença e me encontre" — a contradição é o coração do arco emocional de Kanye.
 
+## 🎬 Micro-cena — "As duas palavras"
+> Ele escreveu a carta às três da manhã, com a mochila já pronta ao lado da porta. Tentou parágrafos inteiros. Explicações. Desculpas. Rasgou todos.
+> Porque quanto mais ele escrevesse, mais fácil seria rastrear. E porque nenhuma frase longa diria melhor do que duas palavras curtas o que ele precisava que o filho entendesse: que fugir era o último ato de amor que lhe restava.
+> Deixou a pokébola do próprio pai ao lado. Escreveu: *"Vença e me encontre."* E saiu antes de mudar de ideia.
+
+## 🎭 Como usá-lo
+- Presença **fantasma** na maior parte do arco: cartas, música cifrada ([[O Recado na Música]]), o [[O Diário de Davi|diário]] entregue em pedaços.
+- O reencontro (ou a ausência dele) é **decisão sua** — segure-o para o clímax da linha de [[Kanye]].
+- Leia [[O Diário de Davi]] para a voz e a cronologia da deserção dele.
+
+## 🗣️ Falas-âncora
+- *"Eu não fugi de você. Eu fugi **para** você."*
+- *"A única arma que eles têm medo de verdade é uma voz que o mundo escuta e que não está à venda."*
+
 ## Ligações
 - [[Kanye]] · [[Pokébola e Carta do Pai (Kanye)]] · [[Rede Coruja]] · [[Otávio Rennó]] · [[Coroa de Ônix]]

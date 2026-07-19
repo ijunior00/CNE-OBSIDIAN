@@ -24,5 +24,21 @@ No Centro Pokémon aparece propaganda: *"[[Centro Nacional de Espécies]] — Co
 - [[Museu de Viridian]]
 - [[VIRIDIAN-01]]
 
+## 🎧 Atmosfera (para narrar)
+Primeira cidade "de verdade": lojas, treinadores, movimento — mas com um zumbido de tensão por baixo. Patrulhas a mais. Vozes baixas demais. Cartazes pedindo para "reportar atividade suspeita". A propaganda verde do [[Centro Nacional de Espécies]] em cada esquina, sorrindo.
+
+## 📍 Pontos de interesse
+- **Centro Pokémon** — a [[Enfermeira Joy]], a TV que foi invadida, a recepção lotada.
+- **Delegacia** — [[Oficial Mara Vilela]] e o caso do [[Oficial Renato Salles|oficial sumido]].
+- **[[Museu de Viridian]]** — o primeiro fragmento e [[Elias Moreau]].
+- **Ginásio de Viridian (FECHADO)** — "líder ausente". Um mistério grande demais para esta fase.
+- **Depósito velho da rota** — a entrada discreta para [[VIRIDIAN-01]].
+
+## 🎲 Encontros e ganchos
+> [!todo]
+> - Um adesivo de **coruja** 🦉 na parede dos fundos de uma loja (primeiro toque da [[Rede Coruja]]).
+> - Técnicos do "Centro" oferecendo "atualização gratuita de Pokédex" na praça (vigilância).
+> - Ver [[Rumores e Manchetes de Kanto]] para o que se ouve nas ruas.
+
 ## Ligações
 - [[Rota 1]] · [[Enfermeira Joy]] · [[Oficial Mara Vilela]] · [[Sessão 01 - O Dia em que a Jornada Começou]] · [[🗺️ Mapa do Mundo (MOC)]]
