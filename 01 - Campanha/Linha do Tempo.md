@@ -21,12 +21,32 @@ Eventos da campanha em ordem. Atualizada a cada sessão.
 5. Um entregador ouviu: *"Viridian é apenas a primeira entrega."*
 6. Em [[Viridian City]], a [[Enfermeira Joy]] vê mais Pokémon feridos; a TV é invadida: *"Kanto esqueceu quem deveria governá-la."*
 
-## Em Viridian (a seguir)
-- Quests em aberto: [[O Pidgey que Não Podia Ser Curado]], [[O Caso do Oficial Desaparecido]], [[O Fragmento do Museu]], [[A Voz Que Foi Cortada]].
+## Sessão 2 — [[Sessão 02 - A Primeira Entrega]]
+- Clímax das quests de Viridian; o grupo entende o que é [[VIRIDIAN-01]].
+- Entram [[Dra. Helena Vasco]] (`CNE-07`), o rival [[Sete]] e a primeira 🦉 [[Rede Coruja|coruja]].
+- Os quatro viram "variáveis de interesse" da CNE.
+
+## Sessão 3 — [[Sessão 03 - A Floresta que Escuta]]
+- Travessia da [[Floresta de Viridian]]; [[Fernanda do Bosque]] e a origem das coleiras.
+- Resgate de Pokémon; semente de dúvida em [[Técnico Ives]].
+
+## Sessão 4 — [[Sessão 04 - O Peso das Pedras]]
+- [[Pewter City]]: **Insígnia da Pedra** ([[Brock]]) e o [[O Segundo Fragmento|segundo fragmento]] da [[Coroa de Ônix]] no [[Museu de Pewter]].
+- Confronto burocrático com [[Dra. Helena Vasco]]. A inscrição aponta para o [[Monte Lua]].
+
+## Sessão 5 — [[Sessão 05 - A Lua Sob a Montanha]]
+- [[Monte Lua]]: escavação da CNE desmontada; [[Bruno Correa]] derrotado (1ª vitória real).
+- Inscrição completa (descreve [[Mewtwo]] sem nome); a câmara reage a [[Excalibur]]. "Projeto Coroa" e "fase de Saffron".
+
+## Sessão 6 — [[Sessão 06 - A Ponte das Pepitas]]
+- [[Cerulean City]]: **Insígnia da Cascata** ([[Misty]]) e o [[Desafio da Ponte das Pepitas]].
+- Recado cifrado de [[Davi]], o pai de [[Kanye]]. Assalto da CNE. Saffron entra no mapa.
 
 ## Futuro planejado
+- Vermilion (3º ginásio), S.S. Anne, Celadon, Saffron ("Projeto Coroa").
 - [[Ganchos Futuros#Assassinato do presidente|Assassinato de Ifrignaldo Laristóteles]].
 - [[Ganchos Futuros#Viagem no tempo|Viagem no tempo]] em torno desse evento.
+- Ver o plano completo em [[Arco - Roteiro das Próximas Sessões]].
 
 ## Ligações
 - [[🗺️ Mapa do Mundo (MOC)]] · [[Visão Geral da Campanha]]

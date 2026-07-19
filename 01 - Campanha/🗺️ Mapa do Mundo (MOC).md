@@ -12,6 +12,12 @@ Painel central do vault. Comece por aqui. Esta é uma nota **MOC** (Map of Conte
 
 ## 🎬 Sessões
 - [[Sessão 01 - O Dia em que a Jornada Começou]]
+- [[Sessão 02 - A Primeira Entrega]]
+- [[Sessão 03 - A Floresta que Escuta]]
+- [[Sessão 04 - O Peso das Pedras]]
+- [[Sessão 05 - A Lua Sob a Montanha]]
+- [[Sessão 06 - A Ponte das Pepitas]]
+- 🧭 **[[Arco - Roteiro das Próximas Sessões]]** (planejamento do Mestre)
 
 ## 👤 Protagonistas
 - [[Aiden]] — justiça e disciplina
@@ -22,32 +28,44 @@ Painel central do vault. Comece por aqui. Esta é uma nota **MOC** (Map of Conte
 ## 🕵️ A conspiração
 - [[Coroa Negra Eterna (CNE)]] — a organização
 - [[Centro Nacional de Espécies]] — a fachada oficial
-- [[Professor Carvalho]] — o vilão secreto
-- [[Mewtwo]] — a ameaça lendária
-- [[Coroa de Ônix]] — o artefato de controle
+- [[Agentes da CNE]] — o organograma (com rosto)
+- [[Professor Carvalho]] `CNE-01` · [[Dra. Helena Vasco]] `CNE-07` · [[Bruno Correa]] `CNE-13` · [[Técnico Ives]] `CNE-22`
+- [[Mewtwo]] — a ameaça lendária · [[Coroa de Ônix]] — o artefato de controle
+
+## 🌍 Mundo e facções
+- [[Kanto — Visão Geral do Mundo]] · [[Facções de Kanto]]
+- [[Liga Pokémon de Kanto]] · [[Circuito Índigo]]
+- 🦉 [[Rede Coruja]] — a resistência aliada
+
+## 🏆 Eventos e campeonatos
+- [[Eventos e Campeonatos de Kanto]] (calendário)
+- [[Feira de Ciências de Pewter]] · [[Desafio da Ponte das Pepitas]]
 
 ## 🧑‍🤝‍🧑 NPCs principais
-- [[Cynthia]] · [[Sr. Miados]] · [[Nancy]] · [[Enfermeira Joy]] · [[Mãe de Aiden]] · [[Jazzy]]
-- [[Oficial Mara Vilela]] · [[Oficial Renato Salles]] · [[Elias Moreau]] · [[Lila]] · [[Ifrignaldo Laristóteles]]
+- **Aliados:** [[Cynthia]] · [[Sr. Miados]] · [[Fernanda do Bosque]] · [[Otávio Rennó]] · [[Davi]] · [[Enfermeira Joy]] · [[Mãe de Aiden]] · [[Oficial Mara Vilela]] · [[Jazzy]] · [[Elias Moreau]] · [[Dr. Aldo Petra]]
+- **Líderes de ginásio:** [[Brock]] · [[Misty]]
+- **Rivais:** [[Sete]] · [[Bel]]
+- **Outros:** [[Nancy]] · [[Lila]] · [[Oficial Renato Salles]] · [[Ifrignaldo Laristóteles]]
 
 ## 🗺️ Locais
-- [[Pallet Town]] → [[Rota 1]] → [[Viridian City]]
-- Instalações da CNE: [[VIRIDIAN-01]] · [[Setor Florestal de Viridian - Posto 3]] · [[Museu de Viridian]]
+- **Rota:** [[Pallet Town]] → [[Rota 1]] → [[Viridian City]] → [[Floresta de Viridian]] → [[Pewter City]] → [[Monte Lua]] → [[Cerulean City]]
+- **Ginásios/museus:** [[Museu de Viridian]] · [[Museu de Pewter]]
+- **Instalações da CNE:** [[VIRIDIAN-01]] · [[Setor Florestal de Viridian - Posto 3]]
 
 ## 🎒 Itens e artefatos
-- [[Coroa de Ônix]] · [[Gaiola CNE-01]] · [[Apito Policial (Aiden)]] · [[Caderno de Campo de Cynthia]] · [[Pokébola e Carta do Pai (Kanye)]] · [[Pokédex]]
+- [[Coroa de Ônix]] · [[Fósseis de Kanto]] · [[Gaiola CNE-01]] · [[Apito Policial (Aiden)]] · [[Caderno de Campo de Cynthia]] · [[Pokébola e Carta do Pai (Kanye)]] · [[Pokédex]]
 
-## 🎯 Quests e ganchos (Viridian)
-- [[O Pidgey que Não Podia Ser Curado]]
-- [[O Caso do Oficial Desaparecido]]
-- [[O Fragmento do Museu]]
-- [[A Voz Que Foi Cortada]]
+## 🎯 Quests e ganchos
+- **Viridian:** [[O Pidgey que Não Podia Ser Curado]] · [[O Caso do Oficial Desaparecido]] · [[O Fragmento do Museu]] · [[A Voz Que Foi Cortada]]
+- **Arco Pewter–Cerulean:** [[A Coleira da Floresta]] · [[O Segundo Fragmento]] · [[A Escavação Sob a Lua]] · [[O Recado na Música]]
+- **Longo prazo:** [[A Dúvida de Sete]]
 
 ## 📚 Guias da campanha
 - [[Visão Geral da Campanha]]
 - [[Tom da Campanha]]
 - [[Linha do Tempo]]
 - [[Ganchos Futuros]]
+- [[Arco - Roteiro das Próximas Sessões]]
 
 ## ⚙️ Sistema (como o vault funciona)
 - [[Como Conectar Obsidian ao GitHub]]
