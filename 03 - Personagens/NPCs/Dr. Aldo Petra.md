@@ -20,5 +20,15 @@ status: vivo
 > [!quote] Dr. Aldo Petra
 > "Eles não pedem. Eles 'formalizam'. Chega um papel, um carimbo, um sorriso — e some uma peça de dez mil anos como se fosse empréstimo de guarda-chuva."
 
+## 🎭 Como usá-lo
+Curador orgulhoso e **encurralado pela burocracia**: a CNE não invade, ela "formaliza". Ele é o aliado que abre as portas do [[Museu de Pewter]] e envia o grupo ao [[Monte Lua]] atrás dos colegas sumidos. Contraponto de [[Elias Moreau]] — mais cansado, mais cínico, igualmente teimoso.
+
+> [!todo] Gancho
+> Petra guarda documentos internos da "cessão" do artefato — prova da fraude, se o grupo souber pedir (ou proteger).
+
+## 🗣️ Falas-âncora
+- *"Eles não pedem. Eles 'formalizam'. Chega um papel, um carimbo, um sorriso — e some uma peça de dez mil anos."*
+- *"Meus colegas subiram o Monte Lua para 'colaborar'. Ninguém desceu. Me digam que vocês são diferentes."*
+
 ## Ligações
 - [[Museu de Pewter]] · [[Coroa de Ônix]] · [[Monte Lua]] · [[Cynthia]] · [[Elias Moreau]] · [[Sessão 04 - O Peso das Pedras]]

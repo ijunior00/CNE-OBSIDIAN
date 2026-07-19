@@ -42,5 +42,19 @@ A CNE quer **provocar crises controladas**, fazer a população perder confianç
 > [!quote]
 > "Kanto não funciona porque a polícia vê tudo. Kanto funciona porque as pessoas certas decidem o que deve ser visto."
 
+## 🎧 Como a CNE se sente (para narrar)
+A CNE nunca parece "vilania". Parece **eficiência**. Uniformes limpos, papéis em ordem, voz baixa e educada. É o mal que traz café e pede licença. O terror dela não é a ameaça — é a **razoabilidade**: cada crime tem uma explicação inocente pronta, cada roubo tem carimbo. Os jogadores vão passar sessões inteiras sabendo que algo está errado sem conseguir provar.
+
+## 🕯️ Símbolos e sinais (para plantar)
+- A **coroa negra rachada** escondida perto de dobradiças, em selos, em telas invadidas.
+- Códigos `CNE-##` (ver [[Agentes da CNE]]).
+- A frase-tese: *"as pessoas certas decidem o que deve ser visto."*
+- A palavra que começa a aparecer nos rádios: **"Projeto Coroa"**.
+
+## 🎲 Escalada (como a ameaça cresce)
+1. **Suspeita** (Viridian): dispositivos, sumiços, propaganda.
+2. **Dano visível** (Floresta→Cerulean): coleiras, escavações, assaltos.
+3. **Face política** (adiante): Saffron, o presidente, a máscara caindo.
+
 ## Ligações
 - [[Centro Nacional de Espécies]] · [[Professor Carvalho]] · [[Mewtwo]] · [[Coroa de Ônix]] · [[VIRIDIAN-01]] · [[Gaiola CNE-01]] · [[🗺️ Mapa do Mundo (MOC)]]

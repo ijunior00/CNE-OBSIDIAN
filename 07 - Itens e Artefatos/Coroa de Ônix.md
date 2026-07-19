@@ -26,5 +26,17 @@ Pedra negra polida com figura humana, criatura de olhos intensos e uma coroa.
 - A CNE (via [[Professor Carvalho]]) para controlar Mewtwo.
 - [[Arkus Felix]] e [[Cynthia]], para entender — e proteger — o conhecimento.
 
+## 🎧 Como descrevê-la (para narrar)
+Pedra negra polida que a luz **não atravessa** — parece engolir o brilho ao redor. Fria ao toque mesmo em ambiente quente. Perto de Pedras da Lua ou de [[Excalibur]], **pulsa** de leve, como um coração muito devagar. Quem a segura por muito tempo sente um zumbido baixo, como se algo do outro lado estivesse tentando ouvir de volta.
+
+## 🧩 A trilha dos fragmentos (para o arco)
+1. Fragmento de Viridian — *"A mente que não se curva…"* ([[O Fragmento do Museu]])
+2. Fragmento de Pewter — aponta para o [[Monte Lua]] ([[O Segundo Fragmento]])
+3. Coração do [[Monte Lua]] — a inscrição completa: *"A pedra não fez o monstro. Fez o trono."*
+4. *(futuro)* o que dorme sob Saffron — o "Projeto Coroa".
+
+> [!danger] SEGREDO DO MESTRE
+> Ver o texto poético completo em [[A Lenda da Coroa de Ônix]]. O ponto central: a coroa **não controla — destrói quem tenta usá-la**. [[Professor Carvalho]] leu a mesma lenda e concluiu "desta vez será diferente". É a arrogância dele que move a campanha inteira.
+
 ## Ligações
 - [[Mewtwo]] · [[O Fragmento do Museu]] · [[Cynthia]] · [[Caderno de Campo de Cynthia]] · [[Museu de Viridian]] · [[🗺️ Mapa do Mundo (MOC)]]

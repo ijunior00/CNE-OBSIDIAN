@@ -21,5 +21,17 @@ status: viva
 > [!danger] SEGREDO DO MESTRE
 > Suas investigações estão perigosamente perto da verdade. A CNE **tem acesso a dados policiais** e vigia investigadores — ela é um alvo. Relaciona-se com a [[Oficial Mara Vilela]].
 
+## 🎬 Micro-cena — "A policial que não vira o rosto"
+> Ela investiga o que ninguém quer que seja investigado. Documentos falsos com selos quase perfeitos. Transportes que passam por delegacias sem serem vistos. Cada pista que puxa a aproxima de uma verdade que pode custar caro — a ela e ao filho.
+> Não é heroína de novela. É uma mãe cansada que decidiu, há muito tempo, que preferia o perigo a viver de olhos fechados. Foi isso que ela tentou passar para [[Aiden]] com um [[Apito Policial (Aiden)|apito velho]].
+
+## 🎭 Como usá-la
+- **Motor da linha do Aiden** e um dos nós da [[Rede Coruja]]. Cada vez que ela avança, o perigo sobe.
+- **Alvo da CNE:** eles têm acesso a dados policiais e a vigiam. Uma ameaça a ela é uma ameaça que atinge Aiden no osso.
+
+## 🗣️ Falas-âncora
+- *"Quando tiver de escolher, não vire o rosto."*
+- *"Eu não tenho medo do perigo, filho. Tenho medo do dia em que parar de me importar com ele."*
+
 ## Ligações
 - [[Aiden]] · [[Oficial Mara Vilela]] · [[Apito Policial (Aiden)]] · [[O Caso do Oficial Desaparecido]]
