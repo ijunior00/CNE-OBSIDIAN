@@ -10,8 +10,13 @@ status: à-solta
 > [!danger] SEGREDO DO MESTRE — a ameaça lendária
 > O objetivo final da [[Coroa Negra Eterna (CNE)]] é encontrar e controlar **Mewtwo**, usando sua força como fundamento de uma nova ordem para Kanto. Mewtwo representa inteligência superior, poder extremo e autoridade que não depende das instituições tradicionais.
 
-## O plano da CNE
-A CNE busca uma maneira de influenciá-lo, contê-lo ou direcioná-lo — via [[Coroa de Ônix]]. **Isso pode falhar:** Mewtwo não é uma ferramenta passiva.
+## O plano da CNE — e como ele dá errado (CANON)
+> [!success] CANON DEFINIDO — versão (B)
+> A CNE **encontrou/despertou Mewtwo sob [[Saffron City]]** ("Projeto Coroa") e tentou controlá-lo com a [[Coroa de Ônix]]. E aconteceu o que a [[A Lenda da Coroa de Ônix|lenda]] avisou: **a coroa não domina — ela quebra quem a usa.**
+>
+> O controle falha (ou funciona pela metade). Mewtwo **rompe as amarras** e vira a própria tecnologia de controle da CNE **contra a humanidade** (os "zumbis" de [[Controle Absoluto (Saffron)]]). Não é vilania: é uma mente torturada revidando.
+>
+> **Consequência para os heróis:** o "monstro" é a **vítima**. O clímax não é derrotar Mewtwo — é **libertá-lo** da coroa (e talvez desfazer o desastre pela [[Ganchos Futuros#Viagem no tempo|viagem no tempo]]). O verdadeiro vilão continua sendo [[Professor Carvalho]] e sua arrogância.
 
 ## Pistas atuais (Sessão 1)
 A trama aponta para Mewtwo **sem revelar o nome ainda** — através de artefatos ligados ao controle de "uma mente extraordinária" (ver [[O Fragmento do Museu]] e [[Coroa de Ônix]]).

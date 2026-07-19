@@ -22,12 +22,8 @@ autor: mesa
 > - [[Professor Carvalho]] realizou seu maior medo: criou a variável que não consegue prever. Sua arrogância (*"desta vez será diferente"*) vira a catástrofe de Kanto.
 > - **Mewtwo não é vilão — é uma mente que nunca pediu para existir, torturada por uma coroa.** A pergunta da campanha se torna literal: quem tem o direito de coroar uma alma? Os heróis podem ter que **libertá-lo** em vez de derrotá-lo.
 
-> [!question] Decisão de canon (me confirme)
-> Isso mexe no coração da campanha. Escolha o que preferir e eu ajusto as notas principais:
-> **(A)** *Mewtwo livre e furioso por conta própria* (a sua versão original) — a CNE é uma trama paralela que também o cobiça.
-> **(B)** *Mewtwo escravizado pela Coroa de Ônix e se libertando* (a síntese acima) — amarra tudo: CNE, Coroa, Projeto Coroa, a lenda.
-> **(C)** *A CNE controlando Mewtwo com sucesso* e usando-o para o "controle absoluto" — os zumbis são o plano dando certo, e os heróis precisam cortar a coleira.
-> Eu recomendo **(B)**. É só dizer a letra.
+> [!success] CANON DEFINIDO — versão (B)
+> A síntese acima é oficial: a CNE controlou Mewtwo com a [[Coroa de Ônix]], o controle **quebrou**, e Mewtwo se volta contra a humanidade usando a própria tecnologia de controle da CNE. Os "zumbis" são a **arma da CNE explodindo na mão dela**. Os heróis provavelmente terão que **libertá-lo**, não vencê-lo. (Ver [[Mewtwo]] e [[Ganchos Futuros]].)
 
 ## Como conduzir (esqueleto do clímax)
 - Chegar a Saffron e achar a vila "zumbi"; entender que a origem é psíquica, não química.

@@ -20,6 +20,12 @@ Pergunta central:
 > [!quote]
 > "O que realmente será salvo se alterarmos este momento?"
 
+## O Projeto Coroa e Mewtwo (clímax) — CANON B
+> [!success] Definido
+> Sob [[Saffron City]], a CNE despertou **[[Mewtwo]]** e tentou coroá-lo com a [[Coroa de Ônix]]. **O controle quebrou** (como avisa [[A Lenda da Coroa de Ônix|a lenda]]): Mewtwo se libertou e voltou a tecnologia de controle **contra a humanidade** — a catástrofe que [[Professor Carvalho]] causou por arrogância. O clímax não é matar Mewtwo, é **libertá-lo**. Ver [[Controle Absoluto (Saffron)]].
+>
+> **Como se liga à viagem no tempo:** o desastre de Saffron pode ser tão grande que a única saída seja recuar no tempo — usando o [[A Perda do Tempo (Celadon)|relógio de Charles Marques]] + **[[Celebi]]** — o que naturalmente conecta ao assassinato do presidente abaixo.
+
 ## Fios em aberto (a desenvolver)
 > [!todo]
 > - O que a [[Coroa de Ônix]] realmente faz com [[Mewtwo]]?

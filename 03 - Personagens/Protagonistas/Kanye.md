@@ -33,6 +33,10 @@ Após expor a CNE, [[Jazzy]] pode enviar:
 > [!danger] SEGREDO DO MESTRE
 > Carvalho quer a **influência e voz pública** de Kanye. Kanye representa o pilar **Voz** — sua capacidade de mobilizar o público é uma ameaça direta ao controle de narrativa da CNE (ver [[A Voz Que Foi Cortada]]).
 
+## Time Pokémon
+- **[[Machop (Kanye)|Machop]]** — parceiro inicial, herança do pai [[Davi]]. Vínculo de parceria, não de obediência.
+- **[[Pidgey Ferido|Pidgey]]** — capturado na Sessão 1; um sobrevivente dos experimentos da CNE que Kanye adotou. Ainda reage ao dispositivo removido (pista viva).
+
 ## 🎬 Cena de origem — "A loja de discos"
 > Antes da fama, antes da fantasia de Teddiursa, havia uma loja de discos numa esquina barulhenta e uma criança que não tinha para onde ir depois da escola.
 >
