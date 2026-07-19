@@ -30,5 +30,21 @@ Fria, brilhante, genuinamente convencida de que ordem vale qualquer preço. Nunc
 ## Arco
 Sessão 2 (avalia) → Sessão 4 (confronto burocrático) → Sessão 5 (comanda à distância; menciona "Projeto Coroa" e "a fase de Saffron") → adiante, a face que os jogadores mais vão odiar antes de chegarem a Carvalho.
 
+## 🎬 Micro-cena — "A ajuda que é ameaça"
+> Ela chega antes do problema virar briga. Sempre. Estende uma garrafa d'água para o mais cansado do grupo, sabe o nome de todos, sorri.
+> — Vocês quatro têm um talento raro para estar onde as coisas acontecem. Isso é um dom… ou um padrão. — o sorriso não chega aos olhos. — Eu **adoro** padrões.
+>
+> Ela não veio impedir os heróis. Veio **estudá-los**. Cada vez que perde, anota algo. É por isso que sai satisfeita mesmo derrotada.
+
+## 🎭 Como usá-la
+- **Nunca é a primeira a atacar.** Ela transforma heróis em criminosos aos olhos do público e deixa a briga para [[Bruno Correa]].
+- Use-a como **pressão social**, não física: papelada, câmeras, autoridade, "a lei está do meu lado".
+- Ela é o rosto que os jogadores vão **odiar** muito antes de chegarem a [[Professor Carvalho]] — é de propósito.
+
+## 🗣️ Falas-âncora
+- *"Isto não é pessoal. É metodológico."*
+- *"É mais confortável ser ajudado do que ser… catalogado."*
+- *"Cada vez que vocês me atrapalham, eu aprendo mais sobre como vocês pensam. Obrigada."*
+
 ## Ligações
 - [[Agentes da CNE]] · [[Professor Carvalho]] · [[Bruno Correa]] · [[Técnico Ives]] · [[🗺️ Mapa do Mundo (MOC)]]

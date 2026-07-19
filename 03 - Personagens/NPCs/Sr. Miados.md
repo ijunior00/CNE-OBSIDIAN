@@ -23,5 +23,21 @@ Estava roubando algo no porão do laboratório do [[Professor Carvalho]] quando 
 > [!danger] SEGREDO DO MESTRE
 > Sr. Miados funciona como um "detector" narrativo: sua reação denuncia dispositivos e documentos da CNE antes de os jogadores entenderem o que são. Ele desconfia de Carvalho desde o começo.
 
+## 🎬 Micro-cena — "O ladrão que virou testemunha"
+> Ele só queria roubar algo brilhante do porão. Em vez disso, viu um humano cair do nada, uma coroa rachada gravada no metal e um "homem velho" gentil demais para ser verdade.
+>
+> Agora Sr. Miados carrega um problema grande demais para um Meowth: ele **sabe**, mas não consegue explicar. Fareja mentira antes de entender a frase. Reconhece a marca da CNE antes de ler o nome. É um detector de perigo com pelos.
+
+## 🎭 Como usá-lo
+- **Alívio cômico + radar de verdade.** Quando o grupo hesita, a reação de Sr. Miados denuncia o que está errado.
+- Fale sempre **telegráfico e sensorial** — ele descreve o que sente, não o que conclui.
+- Guarde-o para o momento em que ninguém acredita nos heróis — e o gato estava certo o tempo todo.
+- Dupla inseparável com [[Excalibur]]: um não pertence a este mundo, o outro não pertence a lugar nenhum.
+
+## 🗣️ Falas-âncora (miados "traduzidos")
+- *"Mesma marca. Muitos papéis. Muitos homens mentindo."*
+- *"Caixa escuta. Caixa do homem velho também. Olha. Escuta. Conta."*
+- *"Homem velho sorri pra fora. Por dentro, tranca porta."*
+
 ## Ligações
 - [[Excalibur]] · [[Professor Carvalho]] · [[Gaiola CNE-01]] · [[Sessão 01 - O Dia em que a Jornada Começou]] · [[🗺️ Mapa do Mundo (MOC)]]
