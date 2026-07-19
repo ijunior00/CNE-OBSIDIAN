@@ -60,6 +60,13 @@ Painel central do vault. Comece por aqui. Esta é uma nota **MOC** (Map of Conte
 - **Arco Pewter–Cerulean:** [[A Coleira da Floresta]] · [[O Segundo Fragmento]] · [[A Escavação Sob a Lua]] · [[O Recado na Música]]
 - **Longo prazo:** [[A Dúvida de Sete]]
 
+## 📖 Contos, lendas e falas (para ler e narrar)
+- ⭐ [[Conto - A Última Ronda]] — a história-semente para ler e desenvolver
+- [[A Lenda da Coroa de Ônix]] (texto in-world)
+- [[O Caderno de Carvalho]] · [[O Diário de Davi]] (interioridade — segredos do Mestre)
+- 🗣️ [[Falas e Vozes dos NPCs]] — banco de falas prontas
+- 📰 [[Rumores e Manchetes de Kanto]] — mundo vivo
+
 ## 📚 Guias da campanha
 - [[Visão Geral da Campanha]]
 - [[Tom da Campanha]]
