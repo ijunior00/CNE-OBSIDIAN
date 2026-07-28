@@ -20,10 +20,33 @@ status: jogada — cliffhanger em aberto
 > - **Todo o grupo desmaiou — junto com a própria [[Fernanda do Bosque|Fernanda]].** 💤
 > - **CLIFFHANGER:** a sessão terminou com os quatro protagonistas e Fernanda inconscientes dentro da cabana. A próxima abre com eles acordando… em algum lugar.
 >
-> > [!question] Fios em aberto para a próxima sessão (a decidir)
-> > - **De quem é o [[Vileplume da Cabana|Vileplume]]?** Armadilha da CNE deixada por [[Técnico Ives|Ives]]? Guardião involuntário da própria Fernanda (atraído pelos gráficos de som)? Um selvagem que já morava ali?
-> > - **O que acontece enquanto dormem?** Os quatro agora são "variáveis de interesse" ([[Sessão 02 - A Primeira Entrega|Sessão 2]]), e [[Dra. Helena Vasco]] sonha com uma "coleta em ambiente controlado" ([[Documentos e Handouts|memorando CNE/INT-0447]]) — a chance perfeita de capturá-los. **Ou** alguém da [[Rede Coruja]] ([[Bel]]? [[Sr. Miados]]?) os encontra primeiro e os arrasta para um lugar seguro.
-> > - **E o Ives fugitivo?** Volta com reforços? Ou some de vez, humilhado — mais perto da deserção?
+> **✅ RESOLVIDO (abertura da sessão seguinte):** [[Sr. Miados]] os encontrou primeiro. Ele pregou um susto vestindo uma capa da CNE e fazendo discurso de vilão — depois jogou a capa no chão ("era zerado"). A capa era do [[Técnico Ives]], que **Sr. Miados nocauteou** durante a fuga (o gato o capturou). E o soco: **[[Fernanda do Bosque]] não acordou — está morta.** Sr. Miados então se revela ligado às **corujas** e convida o grupo para a [[Rede Coruja]]. Cena narrada abaixo. 👇
+
+## 🎬 O Despertar (resolução do cliffhanger — para narrar)
+> Vocês acordam com a cabeça de chumbo e a boca amarga de esporo. O chão de tábua está frio nas costas. Alguém acendeu um lampião — a luz da cabana está diferente, morna, tremida.
+>
+> E, em pé sobre a mesa, recortada contra a chama, uma figura pequena vestindo uma **capa cinza da CNE**, grande demais, arrastando pelo chão. Uma voz sai debaixo do capuz — grave, arrastada, ensaiada:
+>
+> — *"Tolos… acharam mesmo que escapariam do Centro? A Coroa vê tudo. A Coroa não perdoa. Ajoelhem-se diante da—"*
+>
+> A voz falha. A figura suspira. Puxa o capuz e joga a capa no chão com desdém.
+>
+> — Ah. Esquece. **Era zerado.** Só susto. — [[Sr. Miados]] senta na beira da mesa e lambe a pata, satisfeitíssimo. — Cara de vocês, porém. Impagável.
+
+> Ele aponta o queixo para o canto. Lá, amarrado e apagado, está o **[[Técnico Ives]]** — a capa que Miados vestia era dele.
+>
+> — Homem-aparelho corria. Gato corre mais. Gato bate mais. — diz, como quem comenta o tempo.
+
+> E então o gato fica quieto. Sr. Miados não sabe fazer pausa; esta ele fez. Ele olha para o catre no fundo, onde **[[Fernanda do Bosque|Fernanda]]** não se mexe. Não vai se mexer.
+>
+> — Mulher-que-escuta não acordou. — Uma pausa. — Pó demais. Coração de menos. Ela já estava cansada antes de vocês chegarem.
+
+> Depois ele pula da mesa, sério de um jeito novo:
+>
+> — Vocês agora estão marcados. Caixa no bolso conta pra Coroa onde vocês dormem. Sozinhos, viram etiqueta. — Ele caminha até a porta e olha para trás. — Então parem de andar sozinhos. Tem gente que também vê a coroa. Gente que desenha **coruja** no muro. Venham. Miados leva.
+
+> [!tip] Como narrar
+> Deixe a comédia respirar (o discurso falso é pra rir) — e **não avise** a virada. Corte o riso na frase da Fernanda e faça silêncio. É a receita da campanha: alívio e soco no mesmo fôlego. Depois disso, o convite para a [[Rede Coruja]] pesa.
 
 ## Presentes
 - [[Aiden]], [[Arkus Felix]], [[Kanye]], [[Excalibur]]

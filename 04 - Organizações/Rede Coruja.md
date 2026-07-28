@@ -18,8 +18,12 @@ aliases: [Rede Coruja, Os Que Escutam, Resistência]
 - **[[Oficial Mara Vilela]]** — polícia honesta; ponte com a lei.
 - **[[Mãe de Aiden]]** — investiga por dentro da polícia (alvo da CNE).
 - **[[Enfermeira Joy]]** — vê os Pokémon feridos chegarem; fornece evidências médicas.
-- **[[Fernanda do Bosque]]** — a etóloga cuja pesquisa foi roubada.
+- **[[Sr. Miados]]** — o Meowth que **apresentou o grupo à rede** (Sessão 3). Mais conectado do que parecia.
+- **[[Fernanda do Bosque]]** — 🕯️ a etóloga cuja pesquisa foi roubada; **morta na Sessão 3** antes de se juntar de fato. Virou mártir da causa.
 - **[[Davi]]** — ex-CNE arrependido; deixou pistas (pai de [[Kanye]]).
+
+> [!success] 📌 Registro de mesa — Sessão 3
+> Os protagonistas foram **formalmente convidados** à Rede Coruja por [[Sr. Miados]], depois da morte de [[Fernanda do Bosque]] e da captura do [[Técnico Ives]]. É a entrada oficial deles na resistência.
 
 ## Como entra na campanha
 Um bilhete cifrado, um adesivo de coruja, um estranho que "sabe demais". A rede testa os jogadores antes de confiar. Dá **informação e refúgio**, raramente força.

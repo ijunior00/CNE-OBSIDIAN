@@ -3,13 +3,18 @@ tags: [npc, spoiler]
 aliases: [Fernanda do Bosque, Fern, A Etóloga]
 facção: Rede Coruja
 local: Floresta de Viridian
-status: viva
+status: morta (Sessão 3)
 ---
 
 # Fernanda do Bosque
 
-> [!warning] 📌 Registro de mesa — Sessão 3 (situação atual: INCONSCIENTE)
-> O grupo chegou à cabana e derrotou [[Técnico Ives]] (que fugiu). No fim, um **[[Vileplume da Cabana|Vileplume]]** soltou **Pó do Sono** e **Fernanda desmaiou junto com os quatro protagonistas**. Seu paradeiro e destino são um **cliffhanger** — ela ainda não foi de fato salva. (Ver [[Sessão 03 - A Floresta que Escuta]].)
+> [!danger] 🕯️ MORTA — Sessão 3
+> Fernanda **não sobreviveu**. Após o combate com [[Técnico Ives]] e o **Pó do Sono** do [[Vileplume da Cabana|Vileplume]], ela desmaiou junto com o grupo — e **não acordou**. Nas palavras de [[Sr. Miados]]: *"Pó demais. Coração de menos. Ela já estava cansada antes de vocês chegarem."* Os heróis chegaram, mas não a tempo de salvá-la. (Ver [[Sessão 03 - A Floresta que Escuta]].)
+>
+> **Consequências:**
+> - A campanha perde sua **consciência moral** e a especialista em coleiras — um custo real. A morte dela deve pesar sobre o grupo (falharam em proteger quem pediu ajuda).
+> - **O que sobrevive:** a **cabana**, os **cadernos** e os **gráficos de som** dela continuam ali. O conhecimento de como as coleiras funcionam (e como removê-las) vive nas anotações — se o grupo as recuperar. A voz dela cala; o trabalho, não.
+> - Combustível para [[Otávio Rennó]] e a [[Rede Coruja]]: uma cientista honesta, morta, cuja pesquisa a CNE roubou. É um mártir com nome.
 
 > [!info] Resumo
 > Etóloga que passou dez anos na [[Floresta de Viridian]] estudando **como Pokémon se comunicam**. Vive escondida numa cabana cheia de microfones e cadernos. Bondosa, culpada, assustada.

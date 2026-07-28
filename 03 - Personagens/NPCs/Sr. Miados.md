@@ -7,6 +7,11 @@ status: vivo
 
 # Sr. Miados
 
+> [!success] 📌 Registro de mesa — Sessão 3 (o herói improvável)
+> Enquanto o grupo dormia (Pó do Sono do [[Vileplume da Cabana|Vileplume]]), Sr. Miados **os encontrou primeiro**, **nocauteou o [[Técnico Ives]]** em fuga e roubou a capa dele. No despertar, pregou um susto fingindo ser um vilão da CNE com a capa — e então jogou a capa no chão: *"Era zerado."* Foi ele quem deu a notícia de que [[Fernanda do Bosque]] **morreu**. E revelou o que ninguém sabia: **ele é ligado às "corujas"** e vai **apresentar o grupo à [[Rede Coruja]]**.
+>
+> ⭐ Isso promove o Meowth de "radar cômico" a **porta de entrada da resistência**. Ele conhece mais gente e mais segredos do que aparentava.
+
 > [!info] Resumo
 > Um **Meowth** inteligente, desconfiado, que conhece **fragmentos** da trama. Reconhece símbolos, caixas e dispositivos da [[Coroa Negra Eterna (CNE)]], mas não possui toda a verdade. Aliado de [[Excalibur]].
 

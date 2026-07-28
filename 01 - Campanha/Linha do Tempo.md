@@ -28,7 +28,8 @@ Eventos da campanha em ordem. Atualizada a cada sessão.
 
 ## Sessão 3 — [[Sessão 03 - A Floresta que Escuta]] 🎲 JOGADA
 - Travessia da [[Floresta de Viridian]]; [[Fernanda do Bosque]] e a origem das coleiras.
-- **De fato na mesa:** o grupo achou a cabana, **derrotou [[Técnico Ives]]** (que fugiu) e então um **[[Vileplume da Cabana|Vileplume]]** soltou Pó do Sono — **todos desmaiaram junto com Fernanda**. Sessão terminou em **cliffhanger**.
+- **De fato na mesa:** o grupo achou a cabana, **derrotou [[Técnico Ives]]** (que fugiu) e então um **[[Vileplume da Cabana|Vileplume]]** soltou Pó do Sono — **todos desmaiaram junto com Fernanda**.
+- **Resolução:** [[Sr. Miados]] os achou, nocauteou o Ives em fuga (e roubou a capa da CNE), pregou o susto do "vilão" e revelou que 🕯️ **[[Fernanda do Bosque]] morreu**. Ives fica **capturado**; o grupo é convidado para a [[Rede Coruja]].
 
 ## Sessão 4 — [[Sessão 04 - O Peso das Pedras]]
 - [[Pewter City]]: **Insígnia da Pedra** ([[Brock]]) e o [[O Segundo Fragmento|segundo fragmento]] da [[Coroa de Ônix]] no [[Museu de Pewter]].

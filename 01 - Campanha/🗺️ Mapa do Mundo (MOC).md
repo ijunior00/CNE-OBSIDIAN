@@ -42,7 +42,7 @@ Painel central do vault. Comece por aqui. Esta é uma nota **MOC** (Map of Conte
 - [[Feira de Ciências de Pewter]] · [[Desafio da Ponte das Pepitas]]
 
 ## 🧑‍🤝‍🧑 NPCs principais
-- **Aliados:** [[Cynthia]] · [[Sr. Miados]] · [[Fernanda do Bosque]] · [[Otávio Rennó]] · [[Davi]] · [[Enfermeira Joy]] · [[Mãe de Aiden]] · [[Oficial Mara Vilela]] · [[Jazzy]] · [[Elias Moreau]] · [[Dr. Aldo Petra]]
+- **Aliados:** [[Cynthia]] · [[Sr. Miados]] · [[Fernanda do Bosque]] 🕯️ · [[Otávio Rennó]] · [[Davi]] · [[Enfermeira Joy]] · [[Mãe de Aiden]] · [[Oficial Mara Vilela]] · [[Jazzy]] · [[Elias Moreau]] · [[Dr. Aldo Petra]]
 - **Líderes de ginásio:** [[Brock]] · [[Misty]]
 - **Rivais:** [[Sete]] · [[Bel]]
 - **Outros:** [[Nancy]] · [[Lila]] · [[Oficial Renato Salles]] · [[Ifrignaldo Laristóteles]]

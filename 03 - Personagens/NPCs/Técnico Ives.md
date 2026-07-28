@@ -2,13 +2,15 @@
 tags: [npc, spoiler]
 aliases: [Ives, CNE-22]
 facção: Coroa Negra Eterna
-status: vivo
+status: capturado (Sessão 3)
 ---
 
 # Técnico Ives
 
-> [!success] 📌 Registro de mesa — Sessão 3
-> Confrontado na cabana de [[Fernanda do Bosque]], Ives foi **derrotado em combate e fugiu**. Está vivo, humilhado e sozinho — e **não entregou o grupo** ao fugir. Terreno fértil para a dúvida/deserção futura. (Ver [[Sessão 03 - A Floresta que Escuta]].)
+> [!success] 📌 Registro de mesa — Sessão 3 (CAPTURADO)
+> Derrotado em combate pelo grupo, Ives **fugiu** da cabana — e foi **nocauteado por [[Sr. Miados]]** na fuga (o gato lhe tomou a **capa da CNE**). Agora está **amarrado e inconsciente sob custódia do grupo**.
+>
+> **Oportunidade de ouro:** é o elo fraco da CNE, humilhado e sozinho, na mão dos heróis. Tratado com empatia (não com força), pode virar o **primeiro informante** da [[Rede Coruja]] — ainda mais depois de ver que a operação dele ajudou a matar [[Fernanda do Bosque]]. Tratado com brutalidade, fecha. (Ver [[Sessão 03 - A Floresta que Escuta]] e "Como dobrá-lo" abaixo.)
 
 > [!info] Resumo
 > Agente **`CNE-22`**, técnico de baixo escalão. Nervoso, cumpridor de ordens, cada vez mais incomodado com o que ajuda a fazer. **O elo fraco da corrente** da [[Coroa Negra Eterna (CNE)]].

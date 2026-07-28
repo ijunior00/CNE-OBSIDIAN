@@ -11,7 +11,7 @@ status: misterioso
 > O **Vileplume** que estava dentro da cabana de [[Fernanda do Bosque]] na [[Floresta de Viridian]]. Ao fim da [[Sessão 03 - A Floresta que Escuta|Sessão 3]], depois de o grupo derrotar o [[Técnico Ives]], ele soltou **Pó do Sono** — e apagou os quatro protagonistas **junto com a própria Fernanda**.
 
 ## 📌 Registro de mesa
-Apareceu ao fim da Sessão 3. Pó do Sono → grupo inteiro + Fernanda inconscientes. Fecho de sessão em cliffhanger.
+Apareceu ao fim da Sessão 3. Pó do Sono → grupo inteiro + Fernanda inconscientes. **O grupo acordou; [[Fernanda do Bosque|Fernanda]] não** — o esporo (somado ao cansaço e ao estado dela) foi **fatal** para ela. O Vileplume, portanto, foi o instrumento involuntário de uma morte. Seu paradeiro depois disso fica a critério do Mestre (fugiu? foi capturado? segue rondando a cabana?).
 
 > [!question] SEGREDO DO MESTRE — de quem é ele? (a decidir)
 > Escolha o que der mais história:
