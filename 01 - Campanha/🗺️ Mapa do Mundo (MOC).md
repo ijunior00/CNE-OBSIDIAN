@@ -18,6 +18,7 @@ Painel central do vault. Comece por aqui. Esta é uma nota **MOC** (Map of Conte
 - [[Sessão 04 - O Peso das Pedras]]
 - [[Sessão 05 - A Lua Sob a Montanha]]
 - [[Sessão 06 - A Ponte das Pepitas]]
+- [[Sessão 07 - A Tempestade de Vermilion]]
 - 🧭 **[[Arco - Roteiro das Próximas Sessões]]** (planejamento do Mestre)
 
 ## 👤 Protagonistas

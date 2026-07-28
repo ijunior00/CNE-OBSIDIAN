@@ -2,7 +2,7 @@
 tags: [quest, spoiler]
 aliases: [O Homem do Raio Verde]
 local: Vermilion City
-status: semente
+status: desenvolvida
 autor: mesa
 ---
 
@@ -56,4 +56,4 @@ Vários interesses convergem: curiosos, a Liga, a imprensa — e, rápido demais
 > O clarão é **energia dimensional** — a mesma que trouxe [[Excalibur]] de Angra dos Reis. Recomendo: o homem é **outro viajante** (prova de que a chegada de Excalibur não foi única) **ou** alguém afetado pela CNE tentando **reproduzir** essa energia (a "energia anômala" estudada em [[Cerulean City]], mencionada por [[Davi]]). De qualquer forma, a CNE vai querê-lo.
 
 ## Ligações
-- [[Vermilion City]] · [[Excalibur]] · [[Coroa de Ônix]] · [[Davi]] · [[O Recado na Música]] · [[Sessão 06 - A Ponte das Pepitas]]
+- ⭐ **[[Sessão 07 - A Tempestade de Vermilion]]** (esta quest desenvolvida por extenso) · [[Vermilion City]] · [[Tenente Surge]] · [[Excalibur]] · [[Coroa de Ônix]] · [[Davi]] · [[O Recado na Música]] · [[Sessão 06 - A Ponte das Pepitas]]
