@@ -98,5 +98,8 @@ aliases: [Falas e Vozes dos NPCs, Banco de Falas, Vozes]
 - "Não é apreensão. É *cessão temporária*. Tem carimbo."
 - "A Doutora vai querer saber que vocês estavam aqui. Ela sempre quer saber."
 
+> [!tip] Falas curtas aqui, falas longas ali
+> Esta nota é o banco de **falas curtas** para improviso. Quando um NPC importante tiver o direito de falar sem ser interrompido, use os **[[Monólogos dos NPCs]]** (falas longas com subtexto).
+
 ## Ligações
-- [[O Caderno de Carvalho]] · [[Rumores e Manchetes de Kanto]] · [[Agentes da CNE]] · [[🗺️ Mapa do Mundo (MOC)]]
+- [[Monólogos dos NPCs]] · [[Índice - Material de Mesa]] · [[O Caderno de Carvalho]] · [[Rumores e Manchetes de Kanto]] · [[Agentes da CNE]] · [[🗺️ Mapa do Mundo (MOC)]]

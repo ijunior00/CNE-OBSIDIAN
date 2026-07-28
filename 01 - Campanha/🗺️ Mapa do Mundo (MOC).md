@@ -63,11 +63,18 @@ Painel central do vault. Comece por aqui. Esta é uma nota **MOC** (Map of Conte
 - **Longo prazo:** [[A Dúvida de Sete]]
 - **Quests da mesa (suas ideias, integradas):** [[Não Ultrapasse (Viridian)]] · [[Um Ato Heroico (Viridian)]] · [[O Homem do Raio Verde (Vermilion)]] · [[A Estatueta do Gengar (Lavender)]] · [[A Perda do Tempo (Celadon)]] 🔑 · [[O Labirinto de Celebi (Fuchsia)]] 🔑 · [[Controle Absoluto (Saffron)]] 🔑👑
 
+## 🎭 Material de Mesa (texto pronto para usar)
+- 🎭 **[[Índice - Material de Mesa]]** — comece aqui (a "comida" da campanha)
+- 🗣️ [[Monólogos dos NPCs]] — falas longas com subtexto
+- 📖 [[Leituras de Mesa (Narração)]] — caixas para ler em voz alta (Sessões 2–6)
+- 📄 [[Documentos e Handouts]] — papéis in-world para entregar (cifras reais)
+- 🎲 [[Interlúdios - Cenas de Enchimento]] — 12 cenas fechadas
+
 ## 📖 Contos, lendas e falas (para ler e narrar)
 - ⭐ [[Conto - A Última Ronda]] — a história-semente para ler e desenvolver
 - [[A Lenda da Coroa de Ônix]] (texto in-world)
 - [[O Caderno de Carvalho]] · [[O Diário de Davi]] (interioridade — segredos do Mestre)
-- 🗣️ [[Falas e Vozes dos NPCs]] — banco de falas prontas
+- 🗣️ [[Falas e Vozes dos NPCs]] — banco de falas curtas (improviso)
 - 📰 [[Rumores e Manchetes de Kanto]] — mundo vivo
 
 ## 📚 Guias da campanha
@@ -81,6 +88,7 @@ Painel central do vault. Comece por aqui. Esta é uma nota **MOC** (Map of Conte
 - [[Como Conectar Obsidian ao GitHub]]
 - [[Como Atualizamos o Mundo (Fluxo de Trabalho)]]
 - [[Convenções do Vault]]
+- [[Guia de Estilo (Padrão de Escrita)]] — o padrão de qualidade das escritas
 
 ---
 > [!tip] Dica do Obsidian
