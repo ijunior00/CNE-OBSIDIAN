@@ -19,6 +19,7 @@ aliases: [Rede Coruja, Os Que Escutam, Resistência]
 - **[[Mãe de Aiden]]** — investiga por dentro da polícia (alvo da CNE).
 - **[[Enfermeira Joy]]** — vê os Pokémon feridos chegarem; fornece evidências médicas.
 - **[[Sr. Miados]]** — o Meowth que **apresentou o grupo à rede** (Sessão 3). Mais conectado do que parecia.
+- **[[Seu Jorge]]** — dono da barraca de pastel; nó seguro e rosto acolhedor da rede.
 - **[[Fernanda do Bosque]]** — 🕯️ a etóloga cuja pesquisa foi roubada; **morta na Sessão 3** antes de se juntar de fato. Virou mártir da causa.
 - **[[Davi]]** — ex-CNE arrependido; deixou pistas (pai de [[Kanye]]).
 

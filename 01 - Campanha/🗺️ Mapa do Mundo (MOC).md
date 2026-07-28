@@ -14,6 +14,7 @@ Painel central do vault. Comece por aqui. Esta é uma nota **MOC** (Map of Conte
 - [[Sessão 01 - O Dia em que a Jornada Começou]]
 - [[Sessão 02 - A Primeira Entrega]]
 - [[Sessão 03 - A Floresta que Escuta]]
+- [[Sessão 03.5 - A Primeira Reunião das Corujas]]
 - [[Sessão 04 - O Peso das Pedras]]
 - [[Sessão 05 - A Lua Sob a Montanha]]
 - [[Sessão 06 - A Ponte das Pepitas]]
