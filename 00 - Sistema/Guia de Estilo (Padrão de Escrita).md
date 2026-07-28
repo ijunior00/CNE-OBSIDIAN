@@ -35,6 +35,15 @@ Resumo → (🎬 cena de origem / micro-cena) → Personalidade / como interpret
 Papel na trama → 🗣️ Falas-âncora → 🎭 Ganchos → SEGREDO DO MESTRE → Ligações
 ```
 
+## 🎬 Cenas escritas POR EXTENSO (modo cena) — padrão preferido
+Cenas importantes (aberturas, reuniões, confrontos, mortes) devem ser **escritas por extenso**, não em esqueleto de bullets. Ou seja:
+- **Prosa corrida e detalhada** — som, cheiro, luz, gesto. O leitor lê e já está lá.
+- **Falas dos NPCs completas**, escritas inteiras, com o jeito de falar de cada um (ver [[Monólogos dos NPCs]]).
+- **Reações do grupo** ficam como deixa, em *itálico entre parênteses* — porque essas são dos jogadores; nunca escreva as falas dos PCs por eles.
+- O aparato de Mestre (mecânica, ramificações, segredos) vai **no fim**, em callouts, para não quebrar a imersão da cena.
+- Exemplo de referência: [[Sessão 03.5 - A Primeira Reunião das Corujas]].
+> Fragmentos/bullets servem para **preparação e referência** (quests, fichas). Para **jogar a cena na mesa**, escreva por extenso.
+
 ## ✍️ Convenções de formatação (ver também [[Convenções do Vault]])
 - **Callouts:** `> [!info]` contexto · `> [!quote]` falas · `> [!danger] SEGREDO DO MESTRE` verdade oculta · `> [!tip]` dica de mesa · `> [!todo]` fios em aberto · `> [!warning]` mecânica de risco · `> [!success]` canon travado.
 - **Caixas de leitura em voz alta:** em `> ` citação, prosa corrida, presente do indicativo.
