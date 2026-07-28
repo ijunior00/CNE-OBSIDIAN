@@ -22,31 +22,56 @@ status: jogada — cliffhanger em aberto
 >
 > **✅ RESOLVIDO (abertura da sessão seguinte):** [[Sr. Miados]] os encontrou primeiro. Ele pregou um susto vestindo uma capa da CNE e fazendo discurso de vilão — depois jogou a capa no chão e revelou que era só **zueira** ("era zerado", ou seja, uma piada). A capa era do [[Técnico Ives]], que **Sr. Miados nocauteou** durante a fuga (o gato o capturou). E o soco: **[[Fernanda do Bosque]] não acordou — está morta.** Sr. Miados então se revela ligado às **corujas** e convida o grupo para a [[Rede Coruja]]. Cena narrada abaixo. 👇
 
-## 🎬 O Despertar (resolução do cliffhanger — para narrar)
-> Vocês acordam com a cabeça de chumbo e a boca amarga de esporo. O chão de tábua está frio nas costas. Alguém acendeu um lampião — a luz da cabana está diferente, morna, tremida.
->
-> E, em pé sobre a mesa, recortada contra a chama, uma figura pequena vestindo uma **capa cinza da CNE**, grande demais, arrastando pelo chão. Uma voz sai debaixo do capuz — grave, arrastada, ensaiada:
->
-> — *"Tolos… acharam mesmo que escapariam do Centro? A Coroa vê tudo. A Coroa não perdoa. Ajoelhem-se diante da—"*
->
-> A voz falha. A figura suspira. Puxa o capuz e joga a capa no chão com desdém.
->
-> — Ah. Esquece. **Era zerado** — zueira, brincadeira. — [[Sr. Miados]] senta na beira da mesa e lambe a pata, satisfeitíssimo. — Só pra ver a cara de vocês. Impagável.
+## 🎬 O Despertar (resolução do cliffhanger — cena escrita por extenso)
 
-> Ele aponta o queixo para o canto. Lá, amarrado e apagado, está o **[[Técnico Ives]]** — a capa que Miados vestia era dele.
->
-> — Homem-aparelho corria. Gato corre mais. Gato bate mais. — diz, como quem comenta o tempo.
+O primeiro sentido que volta é o gosto. Amargo, adocicado, de flor podre — o Pó do Sono ainda grudado no fundo da garganta. Depois vem o resto, devagar e fora de ordem: o frio das tábuas nas costas, o zumbido na cabeça, a luz laranja de um lampião que alguém acendeu enquanto vocês dormiam. Do lado de fora, a floresta já está preta. Faz horas.
 
-> E então o gato fica quieto. Sr. Miados não sabe fazer pausa; esta ele fez. Ele olha para o catre no fundo, onde **[[Fernanda do Bosque|Fernanda]]** não se mexe. Não vai se mexer.
->
-> — Mulher-que-escuta não acordou. — Uma pausa. — Pó demais. Coração de menos. Ela já estava cansada antes de vocês chegarem.
+E há uma voz. Uma voz **grave**, arrastada, terrível, vinda de algum lugar acima de vocês.
 
-> Depois ele pula da mesa, sério de um jeito novo:
->
-> — Vocês agora estão marcados. Caixa no bolso conta pra Coroa onde vocês dormem. Sozinhos, viram etiqueta. — Ele caminha até a porta e olha para trás. — Então parem de andar sozinhos. Tem gente que também vê a coroa. Gente que desenha **coruja** no muro. Venham. Miados leva.
+— *Tolos…*
+
+Vocês abrem os olhos.
+
+Em pé sobre a mesa da cabana, recortada contra a chama do lampião, há uma figura pequena envolta numa **capa cinza da CNE** — grande demais, o tecido arrastando pelo tampo, o capuz caído sobre o rosto. A silhueta ergue uma pata para o teto num gesto de vilão de ópera.
+
+— *…acharam mesmo que escapariam do Centro? A Coroa vê tudo. A Coroa não perdoa. Ajoelhem-se, vermes, diante do poder da—*
+
+A voz falha. A figura tosse. Suspira, do fundo da alma, como um ator que esqueceu a própria fala no meio do palco. E então, com um desdém magnífico, puxa o capuz para trás e **chuta a capa para o chão**.
+
+— Aah, esquece. **Era zerado.** — [[Sr. Miados]] se acomoda na beira da mesa e começa a lamber a pata, absolutamente satisfeito consigo mesmo. — Zueira. Brincadeira. Só pra ver a cara de vocês acordando. — Ele para de se lamber por um segundo, e há um brilho de puro deleite nos olhos do gato. — Valeu cada segundo. A cara de vocês. Im-pa-gá-vel.
+
+*(Deixe o grupo reagir — alívio, raiva, riso, xingamento. O gato aceita tudo com a serenidade de quem já se divertiu o bastante.)*
+
+Quando o riso (ou o palavrão) passa, Sr. Miados aponta o queixo para o canto da cabana. Lá, encostado na parede, amarrado com a própria corda e completamente apagado, está o **[[Técnico Ives]]** — o homem-aparelho da CNE que vocês enfrentaram antes de tudo escurecer. A capa que o gato vestia para o teatrinho era dele.
+
+— Homem-aparelho correu — Sr. Miados explica, no tom de quem comenta o tempo. — Gato corre mais. Gato é baixo, gato vem por baixo, gato bate onde dói. — Ele estica uma pata, examinando as garras com falso pudor. — Tirei a capa. Ficou boa em mim, não ficou? Poder. Drama. Eu tenho presença.
+
+Ele ri sozinho de novo. E então — de repente — para.
+
+O gato não sabe fazer pausa. Sr. Miados nunca, em toda a sua vida de gato desconfiado, precisou fazer uma pausa. Mas esta ele faz. Ele vira a cabeça, devagar, na direção do catre encostado no fundo da cabana, onde uma forma pequena está deitada de lado, coberta até o ombro, virada para a parede.
+
+**[[Fernanda do Bosque|Fernanda]]** não se mexe.
+
+Ela não vai se mexer.
+
+— A mulher-que-escuta não acordou — diz Sr. Miados, e a voz saiu diferente, sem nenhum drama agora, sem nenhuma piada. — Vocês acordaram. Ela não.
+
+*(Silêncio. Deixe pesar. Não narre por cima disso.)*
+
+— Pó demais — o gato continua, baixinho, olhando o catre e não vocês. — Coração de menos. Ela já estava cansada muito antes de vocês chegarem, sabem. Cansada de esconder. Cansada de tirar coleira à noite chorando. O pó só… achou a porta que já estava destrancada. — Ele abaixa a pata. — Vocês chegaram. Chegaram tarde pra ela. Mas chegaram. É mais do que quase todo mundo neste mundo faz por um estranho.
+
+Ele fica quieto mais um instante. Depois pula da mesa, aterrissa sem barulho no chão de tábua, e quando fala de novo há uma urgência nova na voz — a urgência de quem decidiu que já houve luto o bastante por uma noite.
+
+— Agora escutem, porque isto importa mais que a piada e mais que a tristeza. Vocês estão **marcados**. — Ele anda até um dos seus bolsos e dá uma patada de leve, no lugar onde vocês guardam a [[Pokédex]]. — Essa caixa. A caixa que faz clique. Ela escuta. Ela conta. Conta pra Coroa onde vocês dormem, onde vocês comem, onde vocês param pra chorar. Sozinhos, vocês não são heróis. São **etiqueta**. Endereço. Entrega marcada.
+
+Ele caminha até a porta da cabana, empurra-a com o corpo, e a noite fria entra junto com o cheiro de mato molhado. Na soleira, ele para e olha para trás, os olhos brilhando na luz do lampião.
+
+— Então parem de andar sozinhos. Tem gente em Kanto que também vê a coroa rachada e não engole. Gente que desenha **coruja** no muro e some antes do giz secar. Eu conheço essa gente. — Ele já está do lado de fora, meio engolido pela escuridão, só a voz voltando de lá. — Peguem o homem-aparelho. Ele vem também; ele ainda serve. E venham. Miados leva.
+
+*(Fim da cena do despertar. A partir daqui, o grupo — carregando o Ives amarrado — segue Sr. Miados floresta afora, e a história continua na cena [[Sessão 03.5 - A Primeira Reunião das Corujas]].)*
 
 > [!tip] Como narrar
-> Deixe a comédia respirar (o discurso falso é pra rir) — e **não avise** a virada. Corte o riso na frase da Fernanda e faça silêncio. É a receita da campanha: alívio e soco no mesmo fôlego. Depois disso, o convite para a [[Rede Coruja]] pesa.
+> A cena tem **três batidas** e a ordem é sagrada: (1) a comédia do falso vilão — deixe rir de verdade; (2) o Ives amarrado — leveza ainda, o gato se gabando; (3) a Fernanda morta — corte o riso seco e **faça silêncio**, não narre por cima. É a receita da campanha inteira num só fôlego: alívio e soco. Só depois disso o convite para a [[Rede Coruja]] tem o peso que merece.
 
 ## Presentes
 - [[Aiden]], [[Arkus Felix]], [[Kanye]], [[Excalibur]]
