@@ -8,6 +8,9 @@ sessão: 3
 
 # A Coleira da Floresta
 
+> [!success] 📌 Registro de mesa — Sessão 3 (EM ABERTO)
+> Parcialmente cumprida: o grupo achou a cabana e **derrotou [[Técnico Ives]]** (que fugiu). Mas a quest **não fechou** — um **[[Vileplume da Cabana|Vileplume]]** soltou Pó do Sono e o grupo desmaiou com [[Fernanda do Bosque]] antes de garantir a proteção dela e dos dados. Continua na próxima sessão. (Ver [[Sessão 03 - A Floresta que Escuta]].)
+
 > [!info] Gancho
 > Pokémon da [[Floresta de Viridian]] atacam sem motivo, em bando, com os olhos vazios. Rastros de bota (não de pata) levam mais fundo na mata — até uma cabana escondida e uma etóloga apavorada, [[Fernanda do Bosque]].
 

@@ -2,7 +2,7 @@
 tags: [sessão, spoiler]
 data:
 sessão: 3
-status: pronta-para-jogar
+status: jogada — cliffhanger em aberto
 ---
 
 # Sessão 03 — A Floresta que Escuta
@@ -11,6 +11,19 @@ status: pronta-para-jogar
 > Travessia da [[Floresta de Viridian]]. Um respiro "clássico" de Pokémon (captura, bug catchers, verde) que esconde uma verdade dura: a etóloga [[Fernanda do Bosque]] descobriu como Pokémon se comunicam — e a [[Coroa Negra Eterna (CNE)|CNE]] transformou a descoberta dela em **coleiras de controle**.
 >
 > **Pergunta que abre:** "Por que os Pokémon da floresta estão agressivos?" · **Fecha com:** "A CNE não cura o comportamento — ela o fabrica."
+
+> [!success] 📌 REGISTRO DE MESA — o que aconteceu de fato
+> *(Sessão jogada. Isto é o canon real; o resto da nota é a preparação original.)*
+> - O grupo **encontrou a cabana** de [[Fernanda do Bosque]] no fundo do bosque.
+> - Enfrentaram o [[Técnico Ives]] em combate e **o derrotaram** — Ives **fugiu**, deixando a operação para trás.
+> - Mas a cabana escondia uma armadilha silenciosa: um **[[Vileplume da Cabana|Vileplume]]** soltou **Pó do Sono**.
+> - **Todo o grupo desmaiou — junto com a própria [[Fernanda do Bosque|Fernanda]].** 💤
+> - **CLIFFHANGER:** a sessão terminou com os quatro protagonistas e Fernanda inconscientes dentro da cabana. A próxima abre com eles acordando… em algum lugar.
+>
+> > [!question] Fios em aberto para a próxima sessão (a decidir)
+> > - **De quem é o [[Vileplume da Cabana|Vileplume]]?** Armadilha da CNE deixada por [[Técnico Ives|Ives]]? Guardião involuntário da própria Fernanda (atraído pelos gráficos de som)? Um selvagem que já morava ali?
+> > - **O que acontece enquanto dormem?** Os quatro agora são "variáveis de interesse" ([[Sessão 02 - A Primeira Entrega|Sessão 2]]), e [[Dra. Helena Vasco]] sonha com uma "coleta em ambiente controlado" ([[Documentos e Handouts|memorando CNE/INT-0447]]) — a chance perfeita de capturá-los. **Ou** alguém da [[Rede Coruja]] ([[Bel]]? [[Sr. Miados]]?) os encontra primeiro e os arrasta para um lugar seguro.
+> > - **E o Ives fugitivo?** Volta com reforços? Ou some de vez, humilhado — mais perto da deserção?
 
 ## Presentes
 - [[Aiden]], [[Arkus Felix]], [[Kanye]], [[Excalibur]]

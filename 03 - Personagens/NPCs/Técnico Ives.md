@@ -7,6 +7,9 @@ status: vivo
 
 # Técnico Ives
 
+> [!success] 📌 Registro de mesa — Sessão 3
+> Confrontado na cabana de [[Fernanda do Bosque]], Ives foi **derrotado em combate e fugiu**. Está vivo, humilhado e sozinho — e **não entregou o grupo** ao fugir. Terreno fértil para a dúvida/deserção futura. (Ver [[Sessão 03 - A Floresta que Escuta]].)
+
 > [!info] Resumo
 > Agente **`CNE-22`**, técnico de baixo escalão. Nervoso, cumpridor de ordens, cada vez mais incomodado com o que ajuda a fazer. **O elo fraco da corrente** da [[Coroa Negra Eterna (CNE)]].
 

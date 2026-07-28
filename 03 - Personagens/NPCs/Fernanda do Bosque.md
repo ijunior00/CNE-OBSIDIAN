@@ -8,6 +8,9 @@ status: viva
 
 # Fernanda do Bosque
 
+> [!warning] 📌 Registro de mesa — Sessão 3 (situação atual: INCONSCIENTE)
+> O grupo chegou à cabana e derrotou [[Técnico Ives]] (que fugiu). No fim, um **[[Vileplume da Cabana|Vileplume]]** soltou **Pó do Sono** e **Fernanda desmaiou junto com os quatro protagonistas**. Seu paradeiro e destino são um **cliffhanger** — ela ainda não foi de fato salva. (Ver [[Sessão 03 - A Floresta que Escuta]].)
+
 > [!info] Resumo
 > Etóloga que passou dez anos na [[Floresta de Viridian]] estudando **como Pokémon se comunicam**. Vive escondida numa cabana cheia de microfones e cadernos. Bondosa, culpada, assustada.
 
